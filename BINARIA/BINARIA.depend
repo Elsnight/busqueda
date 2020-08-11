@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1597183181 source:c:\users\edward\desktop\04082020\binaria\main.cpp
+	<iostream>
+	<fstream>
+
